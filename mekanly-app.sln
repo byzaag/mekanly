@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MekanlyBackend", "MekanlyBackend\MekanlyBackend.csproj", "{0B2AFEB2-DFD3-A4E0-1CF2-757C4181F017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2AFEB2-DFD3-A4E0-1CF2-757C4181F017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2AFEB2-DFD3-A4E0-1CF2-757C4181F017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2AFEB2-DFD3-A4E0-1CF2-757C4181F017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2AFEB2-DFD3-A4E0-1CF2-757C4181F017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64511C76-EB01-44EE-94D3-76056DCCCEEC}
+	EndGlobalSection
+EndGlobal
